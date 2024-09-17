@@ -1330,6 +1330,7 @@
   ./services/video/replay-sorcery.nix
   ./services/video/mediamtx.nix
   ./services/video/unifi-video.nix
+  ./services/video/moq-relay.nix
   ./services/video/v4l2-relayd.nix
   ./services/wayland/cage.nix
   ./services/wayland/hypridle.nix
